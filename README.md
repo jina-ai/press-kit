@@ -1,17 +1,19 @@
 # Press Kit
 
-Visual branding, identity, color palette of Jina AI. You can use them in post, news, tweets, events.
+Company info, visual branding, and color palette of Jina AI. You can use them in post, news, tweets, events.
 
 ## Company Info
 
 Jina AI Limited is a Neural Search Company. We provide the cloud-native neural search solution powered by state-of-the-art AI and deep learning. We are hiring talents all over the world to build the next neural search eco-system in open-source.
 
-- Name: Jina AI Limited
+- Company Name: Jina AI Limited
 - Founded in Feb., 2020 
 - Type: Venture-backed, 2M USD at the seed round
 - Office: Beijing, Berlin
-- Contact: hello@jina.ai
 - Press: press@jina.ai
+- Website: https://jina.ai
+- Twitter: @JinaAI_
+- LinkedIn: https://www.linkedin.com/company/jinaai
 
 ## Company logo
 
