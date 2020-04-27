@@ -44,10 +44,17 @@ Representing our opensource project Jina: https://github.com/jina-ai/jina/
 
 The following banner images can be used in your blog post.
 
-### Animated GIF
+| Animated GIF |
+| :---: |
+|![](social/banner.gif)|
+| Static JPG/SVG|
+|![](social/banner.jpg) |
+|![](social/Banner/banner2.jpg)|
+|![](social/Banner/banner3.jpg)|
+|![](social/Banner/banner4.jpg)|
+|![](social/Banner/banner5.jpg)|
+|![](social/Banner/banner6.jpg)|
+|![](social/Banner/banner7.jpg)|
+|![](social/Banner/banner8.jpg)|
+|![](social/Banner/banner9.jpg)|
 
-![](social/banner.gif)
-
-### Static JPG
-
-![](social/banner.jpg)
