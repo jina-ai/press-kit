@@ -22,9 +22,10 @@ Representing our opensource project Jina: https://github.com/jina-ai/jina/
 
 | | **Horizontal** | **Vertical** | **No Tagline** |
 | :---: | :---: | :---: | :---: |
-| **Full color** | ![](logo-product/jina-core/horizontal-layout/colored/Product logo_Core_vertical_colorful.svg) | ![](logo-product/jina-core/vertical-layout/colorful/Product logo_Core_Horizontal_colorful.svg)| ![](logo-product/jina-core/logo-only/colored/Product logo_Core_Colorful.svg) |
-| **Light background** | ![](logo-product/jina-core/horizontal-layout/light-bg/Product logo_Core_vertical_light.svg) | ![](logo-product/jina-core/vertical-layout/light/Product logo_Core_Horizontal_light.svg) | ![](logo-product/jina-core/logo-only/light-bg/Product logo_Core_light.svg) |
-| **Dark background** | ![](logo-product/jina-core/horizontal-layout/dark-bg/Product logo_Core_vertical_dark.svg) | ![](logo-product/jina-core/vertical-layout/dark/Product logo_Core_Horizontal_dark.svg) | ![](logo-product/jina-core/logo-only/dark-bg/Product logo_Core_Dark.svg) |
+| **Full color** | ![](logo-product/jina-core/horizontal-layout/colored//Product%20logo_Core_vertical_colorful.svg) | ![](logo-product/jina-core/vertical-layout/colorful//Product%20logo_Core_Horizontal_colorful.svg)| ![](logo-product/jina-core/logo-only/colored//Product%20logo_Core_Colorful.svg) |
+| **Dark background** | ![](logo-product/jina-core/horizontal-layout/dark-bg//Product%20logo_Core_vertical_dark.svg) | ![](logo-product/jina-core/vertical-layout/dark//Product%20logo_Core_Horizontal_dark.svg) | ![](logo-product/jina-core/logo-only/dark-bg//Product%20logo_Core_Dark.svg) |
+| **Light background** | ![](logo-product/jina-core/horizontal-layout/light-bg//Product%20logo_Core_vertical_light.svg) | ![](logo-product/jina-core/vertical-layout/light//Product%20logo_Core_Horizontal_light.svg) | ![](logo-product/jina-core/logo-only/light-bg//Product%20logo_Core_light.svg) |
+
 
 
 ## Banner
