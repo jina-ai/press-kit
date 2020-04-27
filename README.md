@@ -8,8 +8,8 @@ Representing the group companies including Jina AI Limited (HK), Jina AI (Beijin
 
 | |**On light background** | **On dark background** |
 |:---: | :---: | :---: |
-| **With Tagline** |  ![](logo-company/logo-with-text/light-bg/Company logo_info_light.svg) | ![](logo-company/logo-with-text/dark-bg/Company logo_info_Dark.svg)|
-| **No Tagline** | ![](logo-company/logo/light-bg/Company logo_light.svg) | ![](logo-company/logo/dark-bg/Company logo_Dark.svg)|
+| **With Tagline** |  ![](logo-company/logo-with-text/light-bg/Company%20logo_info_light.svg) | ![](logo-company/logo-with-text/dark-bg/Company%20logo_info_Dark.svg)|
+| **No Tagline** | ![](logo-company/logo/light-bg/Company%20logo_light.svg) | ![](logo-company/logo/dark-bg/Company%20logo_Dark.svg)|
 
 
 ## Product logo
