@@ -8,7 +8,7 @@ Jina AI is a Neural Search Company. We provide the cloud-native neural search so
 
 - Company Name: Jina AI Limited
 - Founded in Feb., 2020 
-- Type: Venture-backed, 2M USD at the seed round
+- Type: Venture-backed, seed round is closed
 - Office: Beijing, Berlin
 - Press: press@jina.ai
 - Website: https://jina.ai
