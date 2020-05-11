@@ -12,7 +12,7 @@ Jina AI is a Neural Search Company. We provide the cloud-native neural search so
 - Office: Beijing, Berlin
 - Press: press@jina.ai
 - Website: https://jina.ai
-- Twitter: @JinaAI_ (with underscore at the end)
+- Twitter: [@JinaAI_](https://twitter.com/JinaAI_) (with underscore at the end)
 - LinkedIn: https://www.linkedin.com/company/jinaai
 
 ## Company logo
