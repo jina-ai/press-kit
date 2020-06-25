@@ -4,15 +4,23 @@ Company info, visual branding, and color palette of Jina AI. You can use them in
 
 ## Company Info
 
-Jina AI is a Neural Search Company. We provide the cloud-native neural search solution powered by state-of-the-art AI and deep learning. We are hiring talents all over the world to build the next neural search eco-system in open-source.
+Jina AI is a **Neural Search Company**, providing cloud-native neural search powered by state-of-the-art AI and deep learning. 
+Our mission is to build an open-source neural search ecosystem for businesses and developers, enabling everyone to search for information in all kinds of data with high accessibility and scalability. 
 
-- Company Name: Jina AI Limited
+
+- Name: Jina AI Limited (& Holdings)
 - Founded in Feb., 2020 
-- Type: Venture-backed, seed round is closed
-- Office: Beijing, Berlin
-- Press: press@jina.ai
-- Website: https://jina.ai
-- Twitter: [@JinaAI_](https://twitter.com/JinaAI_) (with underscore at the end)
+- Type: Venture-backed, seed round is closed in Feb. 2020
+- Offices: 
+  - Beijing, China: Haidian District Haidian West street Nr. 48 Floor 5, 459 Room
+  - Berlin, Germany: ℅ Techcode, Karl-Liebknecht-Str. 5, 10178
+
+## Contact
+- Contact: hello@jina.ai 
+- Twitter: @JinaAI_ (with underscore at the end)
+- Website: https://jina.ai 
+- Github: https://opensource.jina.ai 
+- Youtube: https://webinar.jina.ai 
 - LinkedIn: https://www.linkedin.com/company/jinaai
 
 ## Company logo
