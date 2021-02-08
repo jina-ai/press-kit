@@ -10,10 +10,11 @@ Our mission is to build an open-source neural search ecosystem for businesses an
 
 - Name: Jina AI Limited (& Holdings)
 - Founded in Feb., 2020 
-- Type: Venture-backed, seed round is closed in Feb. 2020
+- Type: Venture-backed, led by GGV Capital
 - Offices: 
-  - Beijing, China: Haidian District Haidian West street Nr. 48 Floor 5, 459 Room
-  - Berlin, Germany: ℅ Techcode, Karl-Liebknecht-Str. 5, 10178
+ - Berlin (HQ), Germany: ℅ Techcode, Karl-Liebknecht-Str. 5, 10178
+ - Beijing, China: Haidian District Haidian West street Nr. 48 Floor 5, 459 Room
+ 
 
 ## Contact
 - Contact: hello@jina.ai 
